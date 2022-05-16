@@ -22,9 +22,14 @@ Run the following command on Terminal to open Cypress Test Runner:
 npm run cy:open (OR) npx cypress open
 ```
 
-### Execute Tests
+### Execute Tests on Cypress runner
+Run the following command to open Cypress test runner and execute tests
+```sh
+Cypress Open Mode :npx cypress open and select browser as chrome on cypress test runner
+```
+
+### Execute Tests on Terminal
 Run the following command on Terminal to execute tests in Headless mode on chrome:
 ```sh
 Cypress Run Mode: npm run test
-Cypress Open Mode :npx cypress open and select browser as chrome on cypress runner
 ```
