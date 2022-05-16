@@ -21,7 +21,7 @@ describe("Get all Emails for the users tg0008993@gmail.com and sa0008993@gmail.c
       USER_RECEIVE_EMAIL,
       USER_SEND_EMAIL,
       EMAIL_MESSAGE,
-      new Date(2021, 10, 15, 23, 31, 13), // Before September 22rd, 2021 23:59:59
+      new Date(2021, 10, 15, 23, 31, 13), // Before September 22nd, 2021 23:59:59
       new Date(2022, 4, 24) // After April 24, 2022);
     );
   });
@@ -39,7 +39,7 @@ describe("Get all Emails for the users tg0008993@gmail.com and sa0008993@gmail.c
       USER_SEND_EMAIL,
       USER_RECEIVE_EMAIL,
       EMAIL_MESSAGE,
-      new Date(2021, 10, 15, 23, 31, 13), // Before September 22rd, 2021 23:59:59
+      new Date(2021, 10, 15, 23, 31, 13), // Before September 22nd, 2021 23:59:59
       new Date(2022, 4, 24) // After April 24, 2022);
     );
   });
