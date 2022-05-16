@@ -1,12 +1,12 @@
 ### Cypress-Typescript: Gmail Automation
 An example project demonstrating Automation of GMAIL tests using Cypress App Action Pattern Framework.
 
-## Application Under Test
+#### Application Under Test
 We are using GMAIL as the Application Under Test. 
 * OS  : macOS
 * IDE : Visual Studio Code
 
-### Installation
+#### Installation
 Install the dependencies and devDependencies to run the test.
 
 -   Clone (OR) Download this repo as zip folder on to your local machine
@@ -16,20 +16,20 @@ Install the dependencies and devDependencies to run the test.
 npm install
 ```
 
-### Open Cypress runner on Terminal
+#### Open Cypress runner on Terminal
 Run the following command on Terminal to open Cypress Test Runner:
 ```sh
 npm run cy:open (OR) npx cypress open
 ```
 
-### Execute Tests on Cypress runner
+#### Execute Tests on Cypress runner
 Run the following command to open Cypress test runner and execute tests
 ```sh
 Cypress Open Mode : Run "npx cypress open" on Terminal and 
                     select browser as chrome on cypress test runner
 ```
 
-### Execute Tests on Terminal
+#### Execute Tests on Terminal
 Run the following command on Terminal to execute tests in Headless mode on chrome:
 ```sh
 Cypress Run Mode: npm run test
