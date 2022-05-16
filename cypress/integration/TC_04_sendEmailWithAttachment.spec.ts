@@ -43,6 +43,6 @@ describe("Sending email attachement from user sa0008993@gmail.com", () => {
       );
     });
 
-    cy.log("Sending attachment is successfull...!");
+    cy.log("Sending Email with Attachment is successfull...!");
   });
 });
