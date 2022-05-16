@@ -1,0 +1,10 @@
+{
+  "senderEmail": {
+    "email": "sa0008993@gmail.com",
+    "password": "Test@123"
+  },
+  "receiverEmail": {
+    "email": "tg0008993@gmail.com",
+    "password": "Test@123"
+  }
+}

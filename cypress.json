@@ -1,0 +1,19 @@
+{
+  "baseUrl": "https://accounts.google.com",
+  "watchForFileChanges": false,
+  "video": false,
+  "defaultCommandTimeout": 20000,
+  "pageLoadTimeout": 20000,
+  "requestTimeout": 20000,
+  "responseTimeout": 20000,
+  "taskTimeout": 30000,
+  "env": {
+    "url": "accounts.google.com",
+    "downloadFolder": "downloads",
+    "imageLocation": "https://i.ibb.co/BCGsRH6/User.png"
+  },
+  "retries": {
+    "runMode": 1,
+    "openMode": 1
+  }
+}
