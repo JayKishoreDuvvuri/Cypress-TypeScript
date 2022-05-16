@@ -25,7 +25,7 @@ npm run cy:open (OR) npx cypress open
 ### Execute Tests on Cypress runner
 Run the following command to open Cypress test runner and execute tests
 ```sh
-Cypress Open Mode :npx cypress open and select browser as chrome on cypress test runner
+Cypress Open Mode : Run "npx cypress open" on Terminal and select browser as chrome on cypress test runner
 ```
 
 ### Execute Tests on Terminal
