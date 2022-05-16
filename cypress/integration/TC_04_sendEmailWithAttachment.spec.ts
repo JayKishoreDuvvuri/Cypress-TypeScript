@@ -1,5 +1,5 @@
 // ### 1. User sa0008993@gmail.com sends an email with attachment of an image to user tg0008993@gmail.com
-// ### 2.User sa0008993@gmail.com sends an email with attachment successfully
+// ### 2. User sa0008993@gmail.com sends an email with attachment successfully
 
 import * as users from "../fixtures/users.json";
 
