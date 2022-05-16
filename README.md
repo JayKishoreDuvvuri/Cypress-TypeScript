@@ -1,4 +1,4 @@
-# Cypress-Typescript: Gmail Automation
+### Cypress-Typescript: Gmail Automation
 An example project demonstrating Automation of GMAIL tests using Cypress App Action Pattern Framework.
 
 ## Application Under Test
