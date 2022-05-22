@@ -1,4 +1,4 @@
-// ### 1. Get all emails for the specific user tg0008993 i na time time range withing 1 Month
+// ### 1. Get all emails for the specific user tg0008993 in a time range within 1 Month
 // ### 2. Filter the criteria by subject and sender sa0008993@gmail.com
 
 import * as users from "../fixtures/users.json";
