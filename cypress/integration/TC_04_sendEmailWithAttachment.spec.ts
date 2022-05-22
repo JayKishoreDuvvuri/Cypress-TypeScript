@@ -12,7 +12,7 @@ const USER_SEND_EMAIL = users.senderEmail.email,
   IMAGE_URL = Cypress.env("imageLocation"),
   FOLDER_NAME = Cypress.env("downloadFolder"),
   PATH = `cypress/fixtures/${FOLDER_NAME}`,
-  FILE_NAME = "User.png";
+  FILE_NAME = "User.png"; 
 
 describe("Sending email attachement from user sa0008993@gmail.com", () => {
   before(function () {
