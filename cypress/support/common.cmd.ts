@@ -100,14 +100,13 @@ Cypress.Commands.add(
   }
 );
 
-Cypress.Commands.add("getAllEmails", (email) => {
+Cypress.Commands.add("getAllEmails", (email: string) => {
   cy.task("gmail:get-all-emails", {
     email: email,
   }).then((response) => {
     console.log("All emails response:", response);
     expect(response).not.to.equal(null);
     expect(response).to.be.not.empty;
-    return response;
   });
 });
 
